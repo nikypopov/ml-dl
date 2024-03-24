@@ -1,7 +1,7 @@
 # Super-Res-MRI-Project
 ## Abstract
 
-In this project, we worked to implement 2 deep learning archtiectures to for super resolution of low-res MRI images and compared the results of 2 different implemntations. I was responsible for the modified CNN model, as outline by approach 2 below. This repository contains only the code for the CNN model. For the *Modified Super Res Diffusion Model* see the links at the bottom of this readme. 
+In this project, we worked to implement 2 deep learning archtiectures for super resolution of low-res MRI images and compared the results of the 2 implemntations. I was responsible for the modified CNN model, as outline by approach 2 below. This repository contains only the code for the CNN model. For the *Modified Super Res Diffusion Model* see the links at the bottom of this readme. 
 
 1. **Modified SRDiff Model with Diffusion:** We leverage a modified super-resolution model with a diffusion component, tailored for enhancing MRI images. This approach combines the "one-to-many" mapping capabilities of the SRDiff model with innovative regularization techniques from MR Image Denoising.
 
