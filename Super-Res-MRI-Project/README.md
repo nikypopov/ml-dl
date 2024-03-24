@@ -1,7 +1,7 @@
 # Super-Res-MRI-Project
 ## Abstract
 
-In this project, we aim to enhance the quality and clarity of MRI brain scans using state-of-the-art super-resolution techniques. We propose two distinct approaches:
+In this project, we worked to implement 2 deep learning archtiectures to for super resolution of low-res MRI images and compared the results of 2 different implemntations. I was responsible for the modified CNN model, as outline by approach 2 below. This repository contains only the code for the CNN model. For the *Modified Super Res Diffusion Model* see the links at the bottom of this readme. 
 
 1. **Modified SRDiff Model with Diffusion:** We leverage a modified super-resolution model with a diffusion component, tailored for enhancing MRI images. This approach combines the "one-to-many" mapping capabilities of the SRDiff model with innovative regularization techniques from MR Image Denoising.
 
@@ -28,7 +28,15 @@ Our study utilizes the BRaTS Brain Tumor Segmentation dataset from 2018 to 2020,
 
 Dataset can be found here: https://drive.google.com/drive/folders/104mZkiHqriF2tR5tVn4aLOA094xbWS-4?usp=share_link
 
-**Links to Colab**
+## Links
+
+**Full Paper**
+Link to PDF: https://drive.google.com/file/d/179Z1xXemZeF2VBxkCLh24Uvu2Qh8SU4f/view?usp=share_link
+
+**SRDiff Model Github**
+Full Project Link: https://github.com/nikypopov/Super-Res-MRI-Project
+
+**Links to Colab Pages**
 
 RDN-UNet Approach: https://colab.research.google.com/drive/1o5t5duzKJUf1aJvEidCj67aGGz8-ym4t?usp=sharing
 
