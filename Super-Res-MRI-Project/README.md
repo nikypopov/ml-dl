@@ -30,9 +30,11 @@ Dataset can be found here: https://drive.google.com/drive/folders/104mZkiHqriF2t
 ## Links
 
 **Full Paper**
+
 Link to PDF: https://drive.google.com/file/d/179Z1xXemZeF2VBxkCLh24Uvu2Qh8SU4f/view?usp=share_link
 
 **SRDiff Model Github**
+
 Full Project Link: https://github.com/nikypopov/Super-Res-MRI-Project
 
 **Links to Colab Pages**
