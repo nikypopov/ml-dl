@@ -1,4 +1,5 @@
-![Report](/EC503_Final_Project_Report.pdf "Report")
+## Project Report
+Detailed project report [here](./EC503_Final_Project_Report.pdf).
 
 ## How to Run each Script:
 
