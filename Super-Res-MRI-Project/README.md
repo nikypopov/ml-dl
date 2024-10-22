@@ -1,4 +1,6 @@
 # Super-Res-MRI-Project
+[Link to PDF of full report](https://drive.google.com/file/d/179Z1xXemZeF2VBxkCLh24Uvu2Qh8SU4f/view?usp=share_link)
+
 ## Overview
 In this project, we worked to implement 2 deep learning archtiectures for super resolution of low-res MRI images and compared the results of the 2 implemntations. I was responsible for the modified CNN model, as outline by approach 2 below. This repository contains only the code for the CNN model. For the *Modified Super Res Diffusion Model* see the links at the bottom of this readme.
 
