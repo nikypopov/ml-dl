@@ -1,6 +1,10 @@
 ## Project Report
 Detailed project report [here](./EC503_Final_Project_Report.pdf).
 
+## Overview
+
+This project explored various machine learning algorithms for stellar classification. My contributions included optimizing the SVM classifier to robustly categorize stars into spectral classes and implementing SMOTE to effectively balance dataset representation, significantly improving model performance across multiple stellar datasets.
+
 ## How to Run each Script:
 
 [Link to original Project Google Drive](https://drive.google.com/drive/folders/115hQhzC4dHJ2099osLNf07JztYB4jPtm?usp=sharing)
