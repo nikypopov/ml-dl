@@ -1,4 +1,4 @@
-![Report](Stellar-Classification-Project/EC503_Final_Project_Report.pdf "Report")
+![Report](/EC503_Final_Project_Report.pdf "Report")
 
 ## How to Run each Script:
 
