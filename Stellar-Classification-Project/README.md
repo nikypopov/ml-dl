@@ -1,4 +1,4 @@
-![Report](ml-dl/Stellar-Classification-Project/EC503_Final_Project_Report.pdf)
+![Report](Stellar-Classification-Project/EC503_Final_Project_Report.pdf "Report")
 
 ## How to Run each Script:
 
