@@ -1,6 +1,6 @@
-# Link to Project Google Drive: https://drive.google.com/drive/folders/115hQhzC4dHJ2099osLNf07JztYB4jPtm?usp=sharing
+### Link to Project Google Drive: https://drive.google.com/drive/folders/115hQhzC4dHJ2099osLNf07JztYB4jPtm?usp=sharing
 
-# Link to Original Data: https://www.kaggle.com/datasets/deepu1109/star-dataset/data
+### Link to Original Data: https://www.kaggle.com/datasets/deepu1109/star-dataset/data
 
 ## How to Run each Script:
 
